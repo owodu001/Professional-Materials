@@ -1,0 +1,79 @@
+.main-section {
+    background-color: white;
+}
+
+.portfolio {
+    border-bottom: 4px solid pink;
+}
+
+
+/* .pic1 {
+    background-color: pink;
+    height: 66.66px;
+    position: relative;
+    top: -80px;
+    text-align: center;
+} */
+
+.navbar-nav {
+    margin-left: 480px;
+}
+
+.list-style {
+    list-style: none;
+}
+
+header {
+    background-color: white;
+    width: 100%;
+}
+
+li {
+    margin: 5px;
+}
+
+@media (max-width:767px) {
+    .list {
+        text-align: center;
+    }
+}
+
+.name {
+    background-color: pink;
+    text-align: center;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+
+/* footer {
+    background-color: lightsalmon;
+} */
+
+.top {
+    border-bottom: solid 4px darkgrey;
+    background-color: White;
+}
+
+.pic {
+    background-color: white;
+    height: 350px;
+}
+
+.footer {
+    background-color: darkgrey;
+    border-top: solid 4px pink;
+    width: 100%;
+    bottom: 0px;
+    position: fixed;
+    height: 60px;
+    text-align: center;
+    padding: 10px 0;
+    margin-bottom: 0;
+}
+
+.gap {
+    height: 70px;
+}
