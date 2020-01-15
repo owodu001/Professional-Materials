@@ -6,6 +6,14 @@
     border-bottom: 4px solid pink;
 }
 
+.space {
+    height: 29px;
+}
+
+.more-space {
+    height: 112px;
+}
+
 
 /* .pic1 {
     background-color: pink;
